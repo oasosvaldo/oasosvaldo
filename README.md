@@ -10,5 +10,6 @@
 </div>
 <div>
     <img width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+    <img width="30px" height=""30px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 
 </div>
