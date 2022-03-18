@@ -9,7 +9,7 @@
 <img width = "400em" height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=oasosvaldo&layout=compact&langs_count=16&theme=dark"/>
 </div>
 <div>
-    <img width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-    <img width="30px" height=""30px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+    <img align="center" alt="OsvaldoJS" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+    <img align="center" alt="OsvaldoHTML" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 
 </div>
