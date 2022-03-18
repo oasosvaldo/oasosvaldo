@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @oasosvaldo
-- 👀 I’m interested in  Desenvolvimento Web e Aplicações Mobile
-- 🌱 I’m currently learning  JavaScrip, HTML e CSS
-- 💞️ I’m looking to collaborate on Projetos que possam agregar conhecimentos em Dev Web Front End
-- 📫 How to reach me 11980638020 WhatsApp
-
-<!---
-oasosvaldo/oasosvaldo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Olá! Eu sou o Osvaldo A. Silveira
+- 👀 Estou aprendendo Desenvolvimento Web e Aplicações Mobile
+- 🌱 As principais tecnologias que estou aprendendo são JavaScrip, HTML, CSS e Python.
+- 💞️ Gostaria muito de participar de Projetos que possam agregar conhecimentos em Dev Web Front End e também em aplicações Mobile.
+<div align = center>
+<a href = "https://github.com/oasosvaldo ">
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=oasosvaldo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" /></img></a>
+</div>
