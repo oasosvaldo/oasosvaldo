@@ -11,5 +11,6 @@
 <div>
     <img align="center" alt="OsvaldoJS" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
     <img align="center" alt="OsvaldoHTML" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+    <img align="center" alt="OsvaldoCSS" width="40px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 
 </div>
