@@ -8,6 +8,7 @@
 <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=oasosvaldo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
 <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=oasosvaldo&layout=compact&langs_count=16&theme=dark"/>
 </div>
-
+<div>
     <img width="30px" height="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 
+</div>
