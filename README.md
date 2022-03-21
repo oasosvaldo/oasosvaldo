@@ -6,7 +6,7 @@
 <a href="https://github.com/oasosvaldo">
 <img width="400em" heigth="180em" src="https://github-readme-stats.vercel.app/api?username=oasosvaldo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" style="max-width: 100%;">
 <img width="400em" heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oasosvaldo&layout=compact&langs_count=16&theme=dark" style="max-width: 100%;">
-
+</a>
 </div>
   
 ## Tecnologias que eu uso no meu dia
