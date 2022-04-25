@@ -20,6 +20,6 @@
   
 ## Minhas redes
  <div style="display: inline_block"><br/>
-<a href="https://linkedin.com/in/osvaldo-silveira-7ba90140" target="_blank" rel="external"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" ></a>
+<a href="https://linkedin.com/in/osvaldo-silveira-7ba90140" target="_blank" rel="external"><img src="linkedin.com/in/osvaldo-silveira-7ba90140" target="_blank" ></a>
 <a href="https://instagram.com/oasosvaldo" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:oasosvaldo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a></div>
