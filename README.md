@@ -1,5 +1,6 @@
 ## Olá! Eu sou o Osvaldo A. Silveira
 - 👀 Estou aprendendo Desenvolvimento Web e Aplicações Mobile
+- Acompanhe meu Portifólio acessando <a href="https://hackoas.blogspot.com">
 - 🌱 As principais tecnologias que estou aprendendo são JavaScrip, HTML, CSS e Python.
 - 💞️ Gostaria muito de participar de Projetos que possam agregar conhecimentos em Dev Web Front End e também em aplicações Mobile.
 <div align = center>
