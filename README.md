@@ -1,5 +1,5 @@
 
-<div style="background-color: grey;">
+<div style="bbackground-image: linear-gradient(to bottom, yellow, red);">
 ## Olá! Eu sou o Osvaldo A. Silveira
 - 👀 Estou aprendendo Desenvolvimento Web e Aplicações Mobile
 - 🌱 As principais tecnologias que estou aprendendo são JavaScrip, HTML, CSS e Python.
