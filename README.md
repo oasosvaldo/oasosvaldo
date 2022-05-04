@@ -1,4 +1,13 @@
-<div style="width: 80%; padding: 20px; background-image: linear-gradient(to bottom, rgba(128, 166, 232, 0.598), rgba(179, 109, 241, 0.505));">
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>oasosvaldo</title>
+</head>
+<body>
+    <div style="width: 80%; padding: 20px; background-image: linear-gradient(to bottom, rgba(128, 166, 232, 0.598), rgba(179, 109, 241, 0.505));">
         <h1>Olá! Eu sou o Osvaldo A. Silveira</h1><br>
         - 👀 Estou aprendendo Desenvolvimento Web e Aplicações Mobile<br>
         - 🌱 As principais tecnologias que estou aprendendo são JavaScrip, HTML, CSS e Python.<br>
@@ -37,3 +46,5 @@
                         style="max-width: 100%;"></a>
             </div>
         </div>
+</body>
+</html>
