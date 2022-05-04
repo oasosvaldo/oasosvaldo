@@ -1,5 +1,5 @@
 <div style="padding: 20px; background-image: linear-gradient(to bottom, rgba(128, 166, 232, 0.598), rgba(179, 109, 241, 0.505));">
-    ## Olá! Eu sou o Osvaldo A. Silveira<br>
+    <h1>Olá! Eu sou o Osvaldo A. Silveira</h1><br>
     - 👀 Estou aprendendo Desenvolvimento Web e Aplicações Mobile<br>
     - 🌱 As principais tecnologias que estou aprendendo são JavaScrip, HTML, CSS e Python.<br>
     - 💞️ Gostaria muito de participar de Projetos que possam agregar conhecimentos em Dev Web Front End e também em
@@ -13,7 +13,7 @@
             </a>
         </div><br>
     
-        ## Tecnologias que eu uso no meu dia
+        <h1>Tecnologias que eu uso no meu dia</h1>
         <div style="display: inline_block">
             <img align="center" alt="html5"
                 src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -25,7 +25,7 @@
         </div>
     
     
-        ## Minhas redes
+        <h1>Minhas redes</h1>
         <div style="display: inline_block"><br />
             <a href="https://linkedin.com/in/osvaldo-silveira-7ba90140" target="_blank" rel="external"><img
                     src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
