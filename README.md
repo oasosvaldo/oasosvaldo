@@ -1,4 +1,4 @@
-<div style="padding: 20px; background-image: linear-gradient(to bottom, rgba(128, 166, 232, 0.598), rgba(179, 109, 241, 0.505));">
+<div style="width: 80%; padding: 20px; background-image: linear-gradient(to bottom, rgba(128, 166, 232, 0.598), rgba(179, 109, 241, 0.505));">
         <h1>Olá! Eu sou o Osvaldo A. Silveira</h1><br>
         - 👀 Estou aprendendo Desenvolvimento Web e Aplicações Mobile<br>
         - 🌱 As principais tecnologias que estou aprendendo são JavaScrip, HTML, CSS e Python.<br>
