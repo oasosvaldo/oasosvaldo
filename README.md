@@ -1,11 +1,21 @@
-<div
-        style="width: 80%; padding: 20px; background-image: linear-gradient(to bottom, rgba(128, 166, 232, 0.598), rgba(179, 109, 241, 0.505));">
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>oasosvaldo</title>
+</head>
+
+<body>
+    <div style="width: 80%; padding: 20px; background-image: linear-gradient(to bottom, rgba(128, 166, 232, 0.598), rgba(179, 109, 241, 0.505));">
         <h1>Olá! Eu sou o Osvaldo A. Silveira</h1><br>
         - 👀 Estou aprendendo Desenvolvimento Web e Aplicações Mobile<br>
         - 🌱 As principais tecnologias que estou aprendendo são JavaScrip, HTML, CSS e Python.<br>
         - 💞️ Gostaria muito de participar de Projetos que possam agregar conhecimentos em Dev Web Front End e também em
         aplicações Mobile.
-        <div style="padding-top: 30px;" align=center>
+        <div style="padding-top: 30px;" align="center">
             <a href="https://github.com/oasosvaldo">
                 <img width="350em"
                     src="https://github-readme-stats.vercel.app/api?username=oasosvaldo&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
@@ -38,3 +48,6 @@
                     style="max-width: 100%;"></a>
         </div>
     </div>
+</body>
+
+</html>
