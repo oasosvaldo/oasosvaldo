@@ -1,6 +1,6 @@
 <div style="padding: 20px; background-image: linear-gradient(to bottom, rgba(128, 166, 232, 0.598), rgba(179, 109, 241, 0.505));">
         <h1>Olá! Eu sou Osvaldo A. Silveira</h1><br>
-        - 👀 Aprendendo sempre mais... 
+        - 👀 Aprendendo sempre mais...<br> 
         - 👀 Desenvolvimento Web e Aplicações Mobile<br>
         - 🌱 As principais tecnologias que uso são JavaScrip, HTML, CSS e Python.<br>
         - 💞️ Gostaria muito de participar de Projetos que possam agregar conhecimentos em Dev Web Front End e também em aplicações Mobile.
@@ -13,8 +13,13 @@
             </a>
         </div>
         <div>
+            <ul>
+            <li>
             <h1>Segue links para acessar meus trabalhos (Portifolio)</h1>
-            <a href="https://oasosvaldo.github.io/ProjetoCordel/" target="_blank" rel="external"><img wisth="6em" src="./imgs/background001.svg" target="_blank"></a>
+            <a href="https://oasosvaldo.github.io/ProjetoCordel/" target="_blank">
+            Cordel Moderno</a>
+            </li>
+            </ul>
         </div>
         <h1>Tecnologias que eu uso no meu dia</h1>
         <div style="display: inline_block">
