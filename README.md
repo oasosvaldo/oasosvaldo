@@ -12,8 +12,10 @@
                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=oasosvaldo&layout=compact&langs_count=16&theme=dark">
             </a>
         </div>
-        <h1>Segue links para acessar meus trabalhos (Portifolio)</h1>
-        <a href="https://oasosvaldo.github.io/ProjetoCordel/" target="_blank" rel="external">
+        <div>
+            <h1>Segue links para acessar meus trabalhos (Portifolio)</h1>
+            <a href="https://oasosvaldo.github.io/ProjetoCordel/" target="_blank" rel="external"><img wisth="6em" src="./imgs/background001.svg" target="_blank"></a>
+        </div>
         <h1>Tecnologias que eu uso no meu dia</h1>
         <div style="display: inline_block">
             <img align="center" alt="html5"
@@ -34,4 +36,3 @@
             <a href="mailto:oasosvaldo@gmail.com"><img style="max-width: 100%; border-radios: 5em"
                     src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white"></a>
         </div>
-    </div>
