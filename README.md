@@ -13,12 +13,12 @@
             </a>
         </div>
         <div>
+            <h1>Segue links para acessar meus trabalhos (Portifolio)</h1><br>
             <ul>
-            <li>
-            <h1>Segue links para acessar meus trabalhos (Portifolio)</h1>
-            <a href="https://oasosvaldo.github.io/ProjetoCordel/" target="_blank">
-            Cordel Moderno</a>
-            </li>
+                <li>            
+                <a href="https://oasosvaldo.github.io/ProjetoCordel/" target="_blank">
+                Cordel Moderno</a>
+                </li>
             </ul>
         </div>
         <h1>Tecnologias que eu uso no meu dia</h1>
