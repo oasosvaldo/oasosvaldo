@@ -1,7 +1,8 @@
 <div style="padding: 20px; background-image: linear-gradient(to bottom, rgba(128, 166, 232, 0.598), rgba(179, 109, 241, 0.505));">
-        <h1>Olá! Eu sou o Osvaldo A. Silveira</h1><br>
-        - 👀 Estou aprendendo Desenvolvimento Web e Aplicações Mobile<br>
-        - 🌱 As principais tecnologias que estou aprendendo são JavaScrip, HTML, CSS e Python.<br>
+        <h1>Olá! Eu sou Osvaldo A. Silveira</h1><br>
+        - 👀 Aprendendo sempre mais... 
+        - 👀 Desenvolvimento Web e Aplicações Mobile<br>
+        - 🌱 As principais tecnologias que uso são JavaScrip, HTML, CSS e Python.<br>
         - 💞️ Gostaria muito de participar de Projetos que possam agregar conhecimentos em Dev Web Front End e também em aplicações Mobile.
         <div style="padding-top: 30px;" align="center">
             <a href="https://github.com/oasosvaldo">
@@ -10,7 +11,9 @@
                 <img width="420em"
                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=oasosvaldo&layout=compact&langs_count=16&theme=dark">
             </a>
-        </div>        
+        </div>
+        <h1>Segue links para acessar meus trabalhos (Portifolio)</h1>
+        <a href="https://oasosvaldo.github.io/ProjetoCordel/" target="_blank" rel="external">
         <h1>Tecnologias que eu uso no meu dia</h1>
         <div style="display: inline_block">
             <img align="center" alt="html5"
