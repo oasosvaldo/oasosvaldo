@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-br">
 
 <head>
@@ -11,37 +10,30 @@
             width: 80%;
             padding: 20px;
         }
-
-        header>h1 {
+        header > h1 {
             margin-left: 25%;
             margin-right: 8%;
             text-align: center;
             box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.357);
             border-radius: 5em;
         }
-
         aside {
             padding: 0px 0px 0px 20px;
             font-size: 1.1em;
         }
-
         body {
             margin: 0 auto;
             background-image: linear-gradient(to bottom, rgba(128, 166, 232, 0.598), rgba(179, 109, 241, 0.505));
         }
-
         main {
             text-align: center;
         }
-
         #quadro1 {
             width: 30em;
         }
-
         #quadro2 {
             width: 35.9em;
         }
-
         #dados {
             text-align: left;
             padding: 0px 0px 0px 20px;
@@ -78,7 +70,6 @@
                     src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
                 <img style="border-radius: 5em;" align="center" alt="js"
                     src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-                
             </div>
             <h1>Minhas redes</h1>
             <div style="display: inline_block">
