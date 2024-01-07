@@ -2,7 +2,7 @@
         <h1>Olá! Eu sou Osvaldo A. Silveira</h1><br>
         - 👀 Aprendendo sempre mais...<br> 
         - 👀 Desenvolvimento Web e Aplicações Mobile<br>
-        - 🌱 As principais tecnologias que uso são JavaScrip, HTML, CSS e Python.<br>
+        - 🌱 As principais tecnologias que uso são JavaScrip, HTML e CSS.<br>
         - 💞️ Gostaria muito de participar de Projetos que possam agregar conhecimentos em Dev Web Front End e também em aplicações Mobile.
         - Veja alguns projetos meus nos links abaixo:
         - https://oasosvaldo.github.io/ProjetoCordel/
