@@ -4,6 +4,8 @@
         - 👀 Desenvolvimento Web e Aplicações Mobile<br>
         - 🌱 As principais tecnologias que uso são JavaScrip, HTML, CSS e Python.<br>
         - 💞️ Gostaria muito de participar de Projetos que possam agregar conhecimentos em Dev Web Front End e também em aplicações Mobile.
+        - Veja alguns projetos meus nos links abaixo:
+        - https://oasosvaldo.github.io/ProjetoCordel/
         <div style="padding-top: 30px;" align="center">
             <a href="https://github.com/oasosvaldo">
                 <img width="350em"
