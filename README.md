@@ -21,6 +21,11 @@
                 <a href="https://oasosvaldo.github.io/ProjetoCordel/" target="_blank">
                 Cordel Moderno</a>
                 </li>
+                <li>
+                        <a href="https://oasosvaldo.github.io/desafio-felipao/">
+                                Desafio do Felipão Curso da DIO
+                        </a>
+                </li>
             </ul>
         </div>
         <h1>Tecnologias que eu uso no meu dia</h1>
