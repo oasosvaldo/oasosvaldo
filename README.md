@@ -4,8 +4,6 @@
         - 👀 Desenvolvimento Web e Aplicações Mobile<br>
         - 🌱 As principais tecnologias que uso são JavaScrip, HTML e CSS.<br>
         - 💞️ Gostaria muito de participar de Projetos que possam agregar conhecimentos em Dev Web Front End e também em aplicações Mobile.
-        - Veja alguns projetos meus nos links abaixo:
-        - https://oasosvaldo.github.io/ProjetoCordel/
         <div style="padding-top: 30px;" align="center">
             <a href="https://github.com/oasosvaldo">
                 <img width="350em"
@@ -16,13 +14,14 @@
         </div>
         <div>
             <h1>Segue links para acessar meus trabalhos (Portifolio)</h1><br>
+        <h2>- Veja alguns projetos meus nos links abaixo:</h2>
             <ul>
                 <li>            
                 <a href="https://oasosvaldo.github.io/ProjetoCordel/" target="_blank">
                 Cordel Moderno</a>
                 </li>
                 <li>
-                        <a href="https://oasosvaldo.github.io/desafio-felipao/">
+                        <a href="https://oasosvaldo.github.io/desafio-felipao/" target="_blank">
                                 Desafio do Felipão Curso da DIO
                         </a>
                 </li>
