@@ -26,7 +26,7 @@
                         </a>
                 </li>
                 <li>
-                        <a href="https://github.com/oasosvaldo/segundoDesafio-felipao.git)" target="_blank">
+                        <a href="https://github.com/oasosvaldo/segundoDesafio-felipao" target="_blank">
                                 Segundo Desafio do Felipão Curso da DIO
                         </a>
                 </li>
