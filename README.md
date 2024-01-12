@@ -22,7 +22,12 @@
                 </li>
                 <li>
                         <a href="https://oasosvaldo.github.io/desafio-felipao/" target="_blank">
-                                Desafio do Felipão Curso da DIO
+                                Primeiro Desafio do Felipão Curso da DIO
+                        </a>
+                </li>
+                <li>
+                        <a href="https://github.com/oasosvaldo/segundoDesafio-felipao.git)" target="_blank">
+                                Segundo Desafio do Felipão Curso da DIO
                         </a>
                 </li>
             </ul>
