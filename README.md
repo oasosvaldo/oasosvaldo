@@ -21,7 +21,7 @@
                 Cordel Moderno</a>
                 </li>
                 <li>
-                        <a href="https://oasosvaldo.github.io/desafio-felipao/" target="_blank">
+                        <a href="https://oasosvaldo.github.io/primeiroDesafio-felipao/" target="_blank">
                                 Primeiro Desafio do Felipão Curso da DIO
                         </a>
                 </li>
