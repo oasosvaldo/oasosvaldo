@@ -14,7 +14,6 @@
         </div>
         <div>
             <h1>Segue links para acessar meus trabalhos (Portifolio)</h1><br>
-        <h2>- Veja alguns projetos meus nos links abaixo:</h2>
             <ul>
                 <li>            
                 <a href="https://oasosvaldo.github.io/ProjetoCordel/" target="_blank">
