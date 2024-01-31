@@ -32,8 +32,11 @@
             </ul>
                 <h1>Desafio do IMC com Funções</h1>
                 <li>
-                        <a href=""
+                        <a href="https://oasosvaldo.github.io/IMC/" target="_blank">
+                                Desafio do IMC com funções
+                        </a>
                 </li>
+
         </div>
         <h1>Tecnologias que eu uso no meu dia</h1>
         <div style="display: inline_block">
